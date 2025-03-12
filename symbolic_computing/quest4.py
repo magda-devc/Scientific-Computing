@@ -16,6 +16,3 @@ print("The second derivative is ", secondDeri)
 
 # Interpret the result for decision-making
 print("Minimum cost: ", minCost[0]) 
-
-
-
